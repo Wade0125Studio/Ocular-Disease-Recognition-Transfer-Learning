@@ -31,9 +31,7 @@ Ocular Disease  model weight URL:https://mega.nz/file/gwkX1RzS#n4tLF9tzA2JiM-1WJ
 </div>
 
 
-
-
-![image]("https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/Predict%20show%20xception.png")
+![image](https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/Predict%20show%20xception.png)
 
 ![image](https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/Training_history%20efficientNetB7.png)
 

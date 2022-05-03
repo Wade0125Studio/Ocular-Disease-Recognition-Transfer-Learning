@@ -9,7 +9,9 @@ Ocular Disease  model weight URL:https://mega.nz/file/gwkX1RzS#n4tLF9tzA2JiM-1WJ
 
 ![image](https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/Show%20original%20data.png)
 
-![image](https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/Training_history%20inceptionResNetV2.png)
+<div align="center">
+<img src="https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/Training_history%20inceptionResNetV2.png">
+</div>
 
 <div align="center">
 <img src="https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/inceptionResNetV2%20predict%20confusion%20matrix.png">
@@ -17,11 +19,20 @@ Ocular Disease  model weight URL:https://mega.nz/file/gwkX1RzS#n4tLF9tzA2JiM-1WJ
 
 ![image](https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/Predict%20show%20inceptionResNetV2.png)
 
+
+
+
+
+
 ![image](https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/Training_history%20xception.png)
+<div align="center">
+<img src="https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/xception%20predict%20confusion%20matrix.png">
+</div>
 
-![image](https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/xception%20predict%20confusion%20matrix.png)
 
-![image](https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/Predict%20show%20xception.png)
+<div align="center">
+<img src="https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/Predict%20show%20xception.png>
+</div>
 
 
 

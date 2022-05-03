@@ -53,11 +53,12 @@ Ocular Disease  model weight URL:https://mega.nz/file/gwkX1RzS#n4tLF9tzA2JiM-1WJ
 ![image](https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/Predict%20show%20resNet152.png)
 
 
-
-![image](https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/Training_history%20VGG19.png)
-
-![image](https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/VGG19%20predict%20confusion%20matrix.png)
-
+<div align="center">
+<img src="https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/Training_history%20VGG19.png">
+</div>
+<div align="center">
+<img src="(https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/VGG19%20predict%20confusion%20matrix.png">
+</div>
 ![image](https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/Predict%20show%20VGG19.png)
 
 
